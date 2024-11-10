@@ -9,7 +9,7 @@ import Services from "./services/page";
 
 const Home = () => {
   return (
-    <section className="h-full">
+    <section className="h-full w-full">
       <div className="container mx-auto">
         <div className="flex flex-col xl:flex-row items-center justify-between
         xl:pt-8 xl:pb-24">
