@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    // basePath: '/assets',
+    basePath: '/aphiwat-dev',
 };
 
 export default nextConfig;

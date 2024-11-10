@@ -14,8 +14,8 @@ const Photo = () => {
                 {/* image */}
                 <div className="w-[200px] h-[200px] xl:w-[400px] xl:h-[400px]">
                     <Image 
-                        // src="https://aphiwatch.github.io/aphiwat-dev/public/assets/01.PNG"
-                        src="./assets/01.PNG"
+                        src="/aphiwat-dev/assets/01.PNG"
+                        // src="./assets/01.PNG"
                         priority 
                         quality={100} 
                         fill 
